@@ -28,7 +28,7 @@ p {
   float: right;
   height: 30 px ;
   width: 60 px ;
-  position: relative;
+  position: absolute;
   top: 65px;
   left: 65px;
 }
