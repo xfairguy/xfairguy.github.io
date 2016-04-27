@@ -24,14 +24,20 @@ p {
 #p1{
   background-color: red;
   float: right;
+  height: 30 px ;
+  width: 60 px ;
 }
 #p2{
   background-color: green;
   float: right;
+   height: 30 px ;
+  width: 60 px ;
 }
 #p3{
   background-color: blue;
   float: right;
+   height: 30 px ;
+  width: 60 px ;
 }
 /********** Large devices only **********/
 @media (min-width: 992px) {
