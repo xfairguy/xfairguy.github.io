@@ -27,7 +27,7 @@ p {
   background-color: red;
   height: 30 px ;
   width: 60 px ;
-  position: absolute;
+  float: right;
   top: 65px;
   left: 65px;
 }
