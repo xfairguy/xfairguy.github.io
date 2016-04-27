@@ -26,21 +26,21 @@ p {
 
 #p1{
   background-color: red;
-  height: 30 px ;
-  width: 60 px ;
+  height: 25% ;
+  width: 25% ;
   float: right;
 }
 #p2{
   background-color: green;
   float: right;
-  height: 30 px ;
-  width: 60 px ;
+  height: 25% ;
+  width: 25% ;
 }
 #p3{
   background-color: blue;
   float: right;
-  height: 30 px ;
-  width: 60 px ;
+  height: 25% ;
+  width: 25% ;
 }
 /********** Large devices only **********/
 @media (min-width: 992px) {
