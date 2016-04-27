@@ -13,6 +13,7 @@ p {
   height: 150px;
   font-family: Helvetica;
   color: white;
+  overflow: auto;
 }
 /* Simple Responsive Framework. */
 .row {
