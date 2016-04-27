@@ -29,8 +29,6 @@ p {
   height: 30 px ;
   width: 60 px ;
   float: right;
-  top: 65px;
-  left: 65px;
 }
 #p2{
   background-color: green;
@@ -41,7 +39,7 @@ p {
 #p3{
   background-color: blue;
   float: right;
-   height: 30 px ;
+  height: 30 px ;
   width: 60 px ;
 }
 /********** Large devices only **********/
