@@ -1,13 +1,30 @@
+* {
+ box-sizing: border-box;
+}
+
+
 h1 {
 color: green ;
+margin-bottom: 15 px;
+}
+
+
+p {
+ border: 1 px solid black ;
+ width: 90 px ;
+ height: 150 px;
+ background-color: #A52B2B;
+ margin-right: auto;
+ margin-left: auto ;
 }
 
 .row {
- width:100 %;  
+ width: 100 %;  
 } 
+
 
 .col-md-4 {
   float: left ;
-  border:1px solid green;
+  border: 1px solid green;
   width: 33 %;
 }
