@@ -19,6 +19,12 @@ p {
   width: 100%;
 }
 
+#pl1{
+  background-color: #808080;
+  height: 25% ;
+  width: 75% ;
+  float: left;
+}
 
 #p1{
   background-color: red;
