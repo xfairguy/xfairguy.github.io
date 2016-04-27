@@ -28,11 +28,14 @@ p {
   float: right;
   height: 30 px ;
   width: 60 px ;
+  position: relative;
+  top: 65px;
+  left: 65px;
 }
 #p2{
   background-color: green;
   float: right;
-   height: 30 px ;
+  height: 30 px ;
   width: 60 px ;
 }
 #p3{
